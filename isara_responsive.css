@@ -1,0 +1,336 @@
+@media(max-width: 1000px) {
+    h2 {
+        font-size: 20px;
+    } 
+
+    .txts {
+        font-size: 12px;
+    }
+    
+    .brhi {
+        display: block;
+    }
+    
+    .nav-logo {
+        margin-left: 20px;
+    }
+
+    .nav-subtitle {
+        left: 150px;
+    }
+
+    .nav-form {
+        display: none;
+    }
+
+    .nav-responsive {
+        display: block;
+        background-color: #da6b64;
+        position: absolute;
+        top: 0;
+        left: 670px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .nav-responsive a {
+        display: block;
+        text-decoration: none;
+        font-size: 15px;
+        color: white;
+    }
+
+    .nav-file {
+        display: block;
+        font-size: 20px;
+        margin-left: 22px;
+        color: white;
+    } 
+
+    .attention p {
+        left: 100px;
+    }
+
+    .bottom-link {
+        left: 120px;
+        font-size: 20px;
+        padding: 20px 100px;
+    }
+
+    .fontawesome {
+        margin-left: 220px;
+    }
+
+    .introduction-heading {
+        width: 700px;
+        left: 30px;
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .introduction-paragraph {
+        font-size: 16px;
+    }
+
+    .sidebox {
+        display: block;
+        margin-left: 200px;
+    }
+
+    .sidecontents {
+        padding: 0;
+    }
+
+    .support {
+        padding: 10px;
+        width: 700px;
+    }
+
+    .support .txtl {
+        font-size: 20px;
+    }
+
+    .support .txtm {
+        font-size: 15px;
+    }
+
+    .support .txts {
+        font-size: 10px;
+    }
+
+    .about-container {
+        margin-bottom: 0;
+    }
+
+    .about-container img {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 50px;
+    }
+
+    .txt2-p {
+        font-size: 14px;
+    }
+
+    .meritbox {
+        width: 400px;
+    }
+
+    .meritbox img {
+        width: 400px;
+        height: 200px;
+    }
+
+    .meritdetail {
+        width: 400px;
+    }
+
+    .last {
+        height: 350px;
+    }
+
+    .t-box {
+        width: 700px;
+    }
+
+    .t-box img {
+        width: 150px;
+        height: 150px;
+        bottom: -80px;
+    } 
+
+    .contents-list {
+        height: 1000px;
+    }
+
+    .listwrap1 {
+        left: 200px;
+        height: 466px;
+    }
+
+    .listwrap2 {
+        left: 200px;
+        top: 550px;
+        height: 310px;
+    }
+
+    .flow img {
+        width: 80%;
+    }
+
+    .client-voice {
+        margin-left: 20px;
+        padding-bottom: 10px;
+    }
+
+    .client-img {
+        padding-bottom: 0;
+    }
+
+    .answer-question img {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 0;
+    }
+
+    .flowbox {
+        width: 600px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        display: block;
+    }
+
+    .flowleft {
+        display: flex;
+        width: 600px;
+        margin-top: 0;
+    }
+
+    .flowleft img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .flowleft p {
+        margin: 0 10px;
+        padding-top: 15px;
+        font-weight: 600;
+        text-decoration: underline; 
+    }
+
+    .flowleft br {
+        display: none;
+    }
+
+    .flowright {
+        display: none;
+        width: 600px;
+    }
+
+    .joint {
+        display: none;
+    }
+
+    #hide {
+        display: block;
+        margin-left: auto;
+        margin-top: 10px;
+    }
+
+    .bangkokdetail h2 {
+        text-align: center;
+    }
+
+    .bangkok .txtm {
+        font-size: 24px;
+        margin-bottom: 40px;
+    }
+
+    .bangkok .txts {
+        font-size: 12px;
+    }
+
+    .bangkoklist li {
+        font-size: 12px;
+    }
+
+    .bangkokdetail {
+        margin-left: 50px;
+    }
+
+    .bangkok-bottom {
+        margin-left: 50px;
+    }
+
+    .special-heading {
+        margin-left: 230px;
+        margin-bottom: 20px;
+    }
+
+    .fa-gift {
+        padding-top: 15px;
+    }
+
+    .specialbox-title {
+        left: 150px;
+    }
+
+    .specialbox {
+        width: 700px;
+        margin-left: 20px;
+    }
+
+    .specialicon {
+        width: 50px; 
+        height: 50px;
+        display: block;
+        margin-left: 100px;
+    }
+
+    .specialicon .txtm {
+        top: 15px;
+        left: 8px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .specialicon .txts {
+        top: 15px;
+        left: 100px;
+        width: 400px;
+        color: white;
+        text-align: left;
+    }
+
+    .founder-img img {
+        width: 700px;
+        height: 600px;
+    }
+
+    .founder-contents {
+        display: block;
+    }
+
+    .form-heading {
+        margin-left: 270px;
+        margin-bottom: 20px;
+    }
+
+    .fa-file-alt {
+        padding-top: 15px;
+    }
+
+    #seimei1 {
+        width: 700px;
+    }
+
+    #seimei2 {
+        width: 700px;
+    }
+
+    #mail {
+        width: 700px;
+    }
+
+    #note {
+        width: 700px;
+    }
+
+    .submit-btn {
+        width: 700px;
+    }
+
+    .faq-heading {
+        margin-left: 270px;
+    }
+
+    .fa-envelope-open {
+        padding-top: 15px;
+    }
+
+    .faq-list {
+        width: 700px;
+    }
+}
