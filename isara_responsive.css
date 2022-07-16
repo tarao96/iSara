@@ -1,3 +1,4 @@
+/* タブレット用レスポンシブデザイン */
 @media(max-width: 1000px) {
     h2 {
         font-size: 20px;
@@ -332,5 +333,335 @@
 
     .faq-list {
         width: 700px;
+    }
+}
+
+
+/* スマホ用レスポンシブデザイン */
+@media(max-width: 480px) {
+    .nav-logo {
+        width: 60px;
+        margin-top: 30px;
+    }
+
+    .nav-subtitle {
+        top: 10px;
+        left: 5px;
+        font-size: 8px;
+    }
+
+    .nav-responsive {
+        display: block;
+        background-color: #da6b64;
+        position: absolute;
+        top: 0;
+        left: 295px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .nav-form {
+        display: none;
+    }
+
+    .top-wrapper {
+        margin-top: 50px;
+        font-size: 20px;
+        height: 350px;
+    }
+
+    .top-wrapper > img {
+        margin-top: 20px;
+    }
+
+    .top-para {
+        margin-top: 20px;
+    }
+
+    .bottom-wrapper {
+        height: 600px;
+    }
+
+    .bottom-wrapper > p {
+        font-size: 16px;       
+    }
+
+    .attention > p {
+        font-size: 13px;
+        left: 10px;
+        width: 350px;
+    }
+
+    .bottom-link {
+        font-size: 15px;
+        top: 200px;
+        left: 20px;
+        padding: 20px 50px;
+    }
+
+    .deadline {
+        margin-top: 150px;
+    }
+
+    .container > .bottom-wrapper > .deadline > p {
+        font-size: 16px;
+    }
+
+    .fontawesome {
+        margin-left: 50px;
+    }
+
+    .introduction {
+        height: 700px;
+    }
+
+    .introduction-heading {
+        width: 330px;
+        font-size: 12px;
+        padding: 15px 0px;
+    }
+
+    .introduction-paragraph {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .text1 {
+        font-size: 18px;
+    }
+
+    .text-p {
+        margin: 20px auto;
+        font-size: 18px;
+        width: 80vw;
+    }
+
+    .text-p {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .about {
+        padding-bottom: 50px;
+    }
+
+    .about-box {
+        width: 90vw;
+        padding: 0;
+    }
+
+    .box-img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .freelance {
+        width: 60px;
+        height: 30px;
+    }
+
+    .text-b {
+        font-size: 12px;
+    }
+
+    .about-second > .container {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .sidebox {
+        margin-left: 0px;
+        width: 80vw;
+    }
+
+    .about-third > .txt1 {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .text-s {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+
+    .meritbox {
+        text-align: center;
+        width: 100vw;
+        height: 350px;
+    }
+
+    .meritbox:second-child {
+        height: 400px;
+    }
+
+    .meritbox > img {
+        width: 90vw;
+        height: 170px;
+        margin-bottom: 0;
+    }
+
+    .meritdetail {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .text-m {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .support {
+        width: 90vw;
+    }
+
+    .meritbottom {
+        width: 90vw;
+    }
+
+    .t-box {
+        width: 90vw;
+    }
+
+    .whitebrackets {
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
+    .text-xs {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .client-voice {
+        width: 90vw;
+    }
+
+    .client-img > img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .client-detail > p {
+        font-size: 14px;
+    }
+
+    .texts {
+        font-size: 14px;
+    }
+
+    .listwrap1 {
+        left: 15px;
+        width: 90vw;
+    }
+
+    .listwrap2 {
+        left: 15px;
+        width: 90vw;
+    }
+
+    .txt1 {
+        font-size: 16px;
+    }
+
+    .flowbox {
+        width: 90vw;
+        margin-left: 0;
+    }
+
+    .bangkok {
+        width: 100vw;
+    }
+
+    .bangkokdetail {
+        margin: 0 auto;
+        width: 95vw;
+    }
+
+    .bangkokdetail > .txtxs {
+        color: #fff;
+    }
+
+    .bangkok-bottom {
+        margin: 0 auto;
+        width: 95vw;
+    }
+
+    .txtm {
+        font-size: 16px;
+    }
+
+    .special-heading {
+        margin-left: 50px;
+    }
+
+    .specialbox-title {
+        left: 50px;
+        top: 230px;
+    }
+
+    .specialbox {
+        width: 90vw;
+        margin-left: 18px;
+    }
+
+    .specialicon {
+        margin-left: 30px;
+    }
+
+    .specialicon > .txts {
+        left: 70px;
+        width: 60vw;
+        top: 0;
+    }
+
+    .founder {
+        width: 100vw;
+    }
+
+    .founder-img > img {
+        width: 90vw;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .founder-message {
+        width: 90vw;
+        margin: 0 auto;
+    }
+
+    .form-heading {
+        margin-left: 80px;
+    }
+
+    #seimei1 {
+        width: 90vw;
+    }
+
+    #seimei2 {
+        width: 90vw;
+    }
+
+    #mail {
+        width: 90vw;
+    }
+
+    #note {
+        width: 90vw;
+    }
+
+    .submit-btn {
+        width: 90vw;
+    }
+
+    .faq-heading {
+        margin-left: 100px;
+    }
+
+    .faq-list {
+        width: 90vw;
+    }
+
+    .faq-list-item > .question-item > .question {
+        font-size: 14px;
     }
 }
